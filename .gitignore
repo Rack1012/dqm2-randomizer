@@ -1,0 +1,10 @@
+# Game files and build output never go in the repository.
+*.3ds
+*.cia
+*.cxi
+*.xdelta
+*.zip
+out/
+analysis/
+save-backup*/
+__pycache__/
