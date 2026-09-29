@@ -82,6 +82,12 @@ python3.14 test_arm.py --libs <keystone dir> --libs <capstone dir> --libs <unico
 
 The build checks the source ROM's hash and never modifies it.
 
+## License
+
+The randomizer's own code and documentation are under the [MIT License](LICENSE):
+reuse them for anything. The license doesn't cover the game or the fan
+translation, which belong to their owners.
+
 ## Credits
 
 - English translation: Dackst & Ich73. This project is built on their v1.2
